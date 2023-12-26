@@ -1,0 +1,33 @@
+{
+  "name": "pw-project",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "prepare": "husky install",
+    "eslint": "eslint . --ext .ts",
+    "test": "npx playwright test --config=chrome.config.ts --headed",
+    "allure:open": "allure generate ./allure-results --clean && allure open ./allure-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.5",
+    "@playwright/test": "^1.25.2",
+    "@reportportal/agent-js-playwright": "^5.0.5",
+    "@typescript-eslint/eslint-plugin": "^5.30.7",
+    "allure-playwright": "^2.0.0-beta.15",
+    "electron": "^15.5.4",
+    "eslint": "^8.20.0",
+    "husky": "^8.0.1",
+    "playwright": "^1.23.4"
+  },
+  "dependencies": {
+    "@reportportal/client-javascript": "^5.0.6",
+    "custom-env": "^2.0.1",
+    "dotenv": "^16.0.0",
+    "lint-staged": "^13.0.3",
+    "pixelmatch": "^5.3.0",
+    "pngjs": "^6.0.0"
+  }
+}

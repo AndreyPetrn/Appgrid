@@ -1,0 +1,10 @@
+.idea
+node_modules
+test-results
+playwright-report
+allure-results
+allure-report
+report
+internal-admin-report
+user-admin-report
+visual-builder-report

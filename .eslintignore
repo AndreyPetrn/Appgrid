@@ -1,0 +1,7 @@
+/node_modules
+/allure-report
+/allure-result
+/data
+/helpers
+/page-object
+/electron-app
