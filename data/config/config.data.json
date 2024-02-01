@@ -1,49 +1,49 @@
 {
     "INTERNAL_ADMINS": {
-        "USERNAME": "stells318@gmail.com",
+        "USERNAME": "@gmail.com",
         "PASSWORD": "123456",
-        "SECOND_USERNAME": "commercehqtest+test_ia_admin@gmail.com",
+        "SECOND_USERNAME": "@gmail.com",
         "SECOND_PASSWORD": "123456"
     },
     "USER_BUILDER": {
         "BUILDER": {
-            "USERNAME": "commercehqtest+test@gmail.com",
-            "PASSWORD": "Test12345!"
+            "USERNAME": "@gmail.com",
+            "PASSWORD": "12345"
         }
     },
     "SECOND_USER_BUILDER": {
         "BUILDER": {
-            "USERNAME": "commercehqtest+new_test_store@gmail.com",
+            "USERNAME": "@gmail.com",
             "PASSWORD": "123456"
         }
     },
     "USER_ADMIN": {
         "ADMIN": {
-            "USERNAME": "commercehqtest+test_appgrid@gmail.com",
+            "USERNAME": "@gmail.com",
             "PASSWORD": "123456"
         }
     },
     "SECOND_USER_ADMIN": {
         "ADMIN": {
-            "USERNAME": "commercehqtest@gmail.com",
+            "USERNAME": "@gmail.com",
             "PASSWORD": "123456"
         }
     },
     "USER_ADMIN_PRIVAT_THEME": {
         "ADMIN": {
-            "USERNAME": "dmitry_store@gmail.com",
+            "USERNAME": "@gmail.com",
             "PASSWORD": "123456"
         }
     },
     "ACTIVATE_DEACTIVATE_USER_ADMIN": {
         "ADMIN": {
-            "USERNAME": "second_default_theme@chqtestingmail100.com",
+            "USERNAME": "@gmail100.com",
             "PASSWORD": "123456"
         }
     },
     "CHANGE_PASSWORD_UI": {
         "ADMIN": {
-            "USERNAME": "test_change_password@chqtestingmail100.com",
+            "USERNAME": "@gmail100.com",
             "PASSWORD": "123456"
         }
     },
@@ -55,14 +55,14 @@
 
         "ADMIN": {
             "grantType": "password",
-            "name": "stells318@gmail.com",
+            "name": "@gmail.com",
             "password": "123456"
         },
 
         "USER": {
             "GRANT_TYPE": "password",
-            "NAME": "commercehqtest+test@gmail.com",
-            "PASSWORD": "Test12345!"
+            "NAME": "@gmail.com",
+            "PASSWORD": "12345"
         }
     }
 
